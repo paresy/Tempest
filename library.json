@@ -1,0 +1,12 @@
+{
+    "id": "{9C75E6C5-19DF-C994-530A-8FD9C42A8FF1}",
+    "name": "Tempest",
+    "author": "Michael Maroszek",
+    "url": "https://github.com/paresy/Tempest",
+    "compatibility": {
+        "version": "5.4"
+    },
+    "version": "1.0",
+    "build": 0,
+    "date": 0
+}
