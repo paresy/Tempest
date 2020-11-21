@@ -70,7 +70,7 @@ class Tempest extends IPSModule
                     $this->SetValue($ident(5), $obs[5]);
                     $this->RegisterVariableFloat($ident(6), 'Station Pressure');
                     $this->SetValue($ident(6), $obs[6]);
-                    $this->RegisterVariableFloat($ident(7), 'Air Pressure');
+                    $this->RegisterVariableFloat($ident(7), 'Air Temperature');
                     $this->SetValue($ident(7), $obs[7]);
                     $this->RegisterVariableFloat($ident(8), 'Relative Humidity');
                     $this->SetValue($ident(8), $obs[8]);
